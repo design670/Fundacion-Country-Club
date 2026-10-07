@@ -4,8 +4,9 @@ Proyecto de página web para la Fundación Social Country Club de Barranquilla (
 
 ## Estructura
 
-- `brief/` — Brief estratégico entregado por la Fundación.
-- `prototipo/index.html` — Prototipo navegable (abrir en el navegador). Páginas: Inicio, Quiénes somos, Programas, Impacto, Apoya, Contacto.
+- **`website/` — Sitio web para entregar al programador** (`index.html`, `css/`, `js/`, `assets/`). Es la versión vigente; ver `website/README.md`.
+- `brief/` — Brief estratégico y documento de estructura (sitemap) entregados por la Fundación.
+- `prototipo/` — Historial del prototipo en un solo archivo y versiones anteriores. No es la versión para publicar.
 - Versión publicada del prototipo: https://claude.ai/artifact/9cHirrXL1wRU7DyCHj4Zfd
 
 ## Marca
